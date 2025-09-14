@@ -103,5 +103,5 @@ See `EULA.txt` for end-user terms.
 ---
 
 ## 🙌 Author
-Tiago Roque — [GitHub](https://github.com/tiagoroque3) · [LinkedIn](https://www.linkedin.com/)
+Tiago Roque — [GitHub](https://github.com/tiagoroque3) · [LinkedIn](https://www.linkedin.com/tiagodcroque)
 
